@@ -18,5 +18,11 @@ the [RealWorld](https://github.com/gothinkster/realworld) repo.
 
 # Getting started
 
-> npm install, npm start, etc.
-
+```shell
+# install dependencies
+npm i
+# run local developement server
+npm run dev
+# open page in browser
+open http://localhost:3000
+```
