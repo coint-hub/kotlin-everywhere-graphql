@@ -1,6 +1,0 @@
-#gradle
-.gradle/
-build/
-
-#intellij
-.idea/
